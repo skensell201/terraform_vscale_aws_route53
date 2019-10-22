@@ -1,0 +1,7 @@
+#Vscale
+vscale_token     =
+vscale_servers   =
+vscale_make_from =
+ssh_key_skensel  =
+#AWS
+amz_53_zone_id =
